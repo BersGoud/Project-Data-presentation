@@ -1,5 +1,5 @@
 # Project-Data-presentation
-Onderwerp project data presentation: World Happiness Report en Suicide Rates Overview 2015 tot 2019
+Onderwerp project data presentation: World Happiness Report en Suicide Rates Overview 2015 tot 2021
 
 # Suicide rates
 https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021
